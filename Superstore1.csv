@@ -1,0 +1,101 @@
+Order ID,Order Date,Category,Region,Product Name,Sales,Profit
+ORD001,25-05-2025,Office Supplies,East,Pen,1023,2056
+ORD002,08-10-2025,Furniture,South,Table,7075,669
+ORD003,07-02-2025,Office Supplies,West,Paper,5095,2641
+ORD004,19-12-2025,Technology,Central,Mouse,7050,2962
+ORD005,17-09-2025,Technology,East,Mouse,6206,1427
+ORD006,27-04-2025,Furniture,Central,Chair,8828,986
+ORD007,09-02-2025,Technology,Central,Laptop,3992,2558
+ORD008,25-04-2025,Technology,East,Keyboard,1657,1037
+ORD009,20-10-2025,Furniture,Central,Table,1473,769
+ORD010,04-04-2025,Furniture,Central,Chair,8434,2801
+ORD011,26-04-2025,Furniture,South,Desk,4043,1363
+ORD012,21-11-2025,Technology,East,Laptop,4235,758
+ORD013,15-10-2025,Furniture,Central,Chair,9883,776
+ORD014,09-04-2025,Technology,Central,Laptop,3980,2165
+ORD015,28-07-2025,Technology,East,Mouse,1081,2586
+ORD016,24-05-2025,Furniture,South,Chair,4063,838
+ORD017,17-10-2025,Technology,Central,Mouse,6937,1866
+ORD018,20-08-2025,Technology,East,Laptop,6540,323
+ORD019,02-09-2025,Office Supplies,Central,Paper,2134,2936
+ORD020,14-03-2025,Furniture,South,Chair,7184,2952
+ORD021,07-10-2025,Furniture,South,Chair,5550,2320
+ORD022,28-06-2025,Technology,East,Mouse,2406,2017
+ORD023,18-02-2025,Technology,East,Keyboard,7709,1480
+ORD024,01-05-2025,Furniture,West,Desk,1933,353
+ORD025,19-04-2025,Office Supplies,East,Pen,3010,2826
+ORD026,16-12-2025,Technology,West,Mouse,1772,1664
+ORD027,31-07-2025,Furniture,Central,Desk,1791,2294
+ORD028,03-01-2025,Office Supplies,South,Paper,5860,2689
+ORD029,04-12-2025,Technology,East,Laptop,2001,277
+ORD030,26-01-2025,Office Supplies,Central,Pen,1382,2874
+ORD031,05-10-2025,Office Supplies,Central,Notebook,2494,1348
+ORD032,02-06-2025,Furniture,South,Table,6642,313
+ORD033,20-12-2025,Office Supplies,Central,Paper,8753,977
+ORD034,26-12-2025,Furniture,West,Desk,8253,666
+ORD035,08-05-2025,Office Supplies,West,Paper,9712,416
+ORD036,04-06-2025,Technology,Central,Keyboard,6456,1301
+ORD037,17-11-2025,Technology,South,Keyboard,6822,2828
+ORD038,03-05-2025,Furniture,West,Table,2701,2088
+ORD039,08-03-2025,Furniture,East,Desk,7475,1912
+ORD040,19-07-2025,Office Supplies,Central,Notebook,8544,2272
+ORD041,14-12-2025,Office Supplies,East,Paper,6713,832
+ORD042,02-11-2025,Furniture,East,Desk,8141,1037
+ORD043,25-11-2025,Furniture,Central,Desk,9861,1943
+ORD044,12-08-2025,Furniture,East,Chair,2294,229
+ORD045,05-10-2025,Technology,South,Mouse,6620,1928
+ORD046,01-07-2025,Office Supplies,West,Paper,1066,1663
+ORD047,23-11-2025,Technology,Central,Laptop,8090,722
+ORD048,17-08-2025,Office Supplies,Central,Pen,4586,451
+ORD049,03-08-2025,Furniture,South,Chair,8491,2271
+ORD050,24-08-2025,Technology,Central,Laptop,1707,2739
+ORD051,10-07-2025,Furniture,East,Chair,8614,1071
+ORD052,19-06-2025,Office Supplies,Central,Paper,5054,2802
+ORD053,30-08-2025,Furniture,Central,Table,6440,2686
+ORD054,21-01-2025,Office Supplies,Central,Paper,6970,2975
+ORD055,17-02-2025,Technology,Central,Mouse,2593,898
+ORD056,17-02-2025,Furniture,South,Chair,3412,2297
+ORD057,29-08-2025,Office Supplies,Central,Pen,5341,941
+ORD058,10-03-2025,Office Supplies,Central,Notebook,7322,2124
+ORD059,07-02-2025,Office Supplies,East,Notebook,3602,731
+ORD060,06-12-2025,Technology,South,Mouse,2011,2966
+ORD061,18-04-2025,Furniture,East,Desk,4824,254
+ORD062,26-05-2025,Technology,South,Keyboard,9602,2540
+ORD063,19-01-2025,Technology,South,Mouse,8218,731
+ORD064,11-09-2025,Technology,South,Laptop,9154,980
+ORD065,13-06-2025,Office Supplies,East,Notebook,3812,369
+ORD066,15-03-2025,Technology,West,Laptop,2643,2197
+ORD067,28-11-2025,Office Supplies,South,Notebook,1545,1603
+ORD068,23-02-2025,Furniture,Central,Desk,4330,2814
+ORD069,29-08-2025,Furniture,Central,Desk,2137,2566
+ORD070,06-01-2025,Technology,Central,Keyboard,1183,2206
+ORD071,15-03-2025,Office Supplies,Central,Pen,6890,2581
+ORD072,27-10-2025,Furniture,East,Desk,7361,2441
+ORD073,06-10-2025,Office Supplies,East,Paper,7830,2286
+ORD074,10-11-2025,Office Supplies,West,Pen,5198,2555
+ORD075,28-07-2025,Technology,South,Laptop,7997,2835
+ORD076,04-12-2025,Office Supplies,West,Pen,9146,2027
+ORD077,12-07-2025,Technology,South,Mouse,2556,953
+ORD078,08-03-2025,Furniture,East,Desk,5818,201
+ORD079,11-09-2025,Office Supplies,East,Pen,1477,1716
+ORD080,07-06-2025,Office Supplies,South,Pen,9187,2915
+ORD081,12-01-2025,Office Supplies,East,Notebook,7946,2257
+ORD082,20-12-2025,Technology,West,Laptop,7086,2887
+ORD083,13-12-2025,Office Supplies,South,Paper,5034,1588
+ORD084,06-11-2025,Technology,West,Laptop,9070,347
+ORD085,20-08-2025,Furniture,Central,Desk,5036,2263
+ORD086,04-10-2025,Office Supplies,Central,Pen,2540,911
+ORD087,26-05-2025,Technology,West,Mouse,7866,1985
+ORD088,20-11-2025,Office Supplies,West,Notebook,1982,925
+ORD089,01-06-2025,Furniture,East,Desk,3715,2582
+ORD090,06-07-2025,Office Supplies,South,Paper,3105,500
+ORD091,02-01-2025,Technology,Central,Keyboard,9824,2594
+ORD092,13-06-2025,Technology,Central,Laptop,1809,523
+ORD093,18-09-2025,Furniture,Central,Chair,7889,904
+ORD094,19-02-2025,Technology,South,Keyboard,3828,439
+ORD095,28-07-2025,Furniture,South,Table,8715,1964
+ORD096,18-10-2025,Furniture,East,Chair,9687,2225
+ORD097,10-09-2025,Office Supplies,South,Notebook,5113,1674
+ORD098,22-12-2025,Technology,Central,Laptop,1458,1951
+ORD099,15-07-2025,Technology,East,Keyboard,8435,352
+ORD100,06-04-2025,Technology,West,Laptop,1033,900
