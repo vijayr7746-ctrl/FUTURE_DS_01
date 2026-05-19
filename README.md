@@ -30,3 +30,6 @@ Superstore Dataset
 - Monthly Sales Trend Analysis
 - Data Visualization
 - Excel Dashboard Creation
+
+# Author
+Karthik Vijay
